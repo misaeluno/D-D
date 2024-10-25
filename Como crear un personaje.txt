@@ -1,0 +1,52 @@
+Intrucciones sencilla para crear un personaje.
+
+1-Busca que raza quieres ser. Hay 7 razas bacicas para comenzar
+	1. El Humano
+	2. El Elfo
+	3. El Semi-Elfo
+	4. El Semi-Orco
+	5. El Tefling
+	6. El Mediano
+	7. El Gnomo
+
+2- Que clase quieres ser. Igual que las Razas hay algunas bacicas para principiante
+	1.  El Paladin
+	2.  El Clerigo
+	3.  El Picaro
+	4.  El Mago
+	5.  El Hechicero
+	6.  El Brujo
+	7.  El Barbaro
+	8.  El Druida
+	9.  El Seductor = Bardo
+        10. El Artificiero
+        11. El Luchador
+	12. El Drakonito
+
+3- Ahora a tu izqueirda estan tus destrazas
+	1. Fuerza
+	2. Destreza
+	3. Constitucion
+	4. Inteligencia
+	5. Sabiduria
+	6. Carisma
+
+4-Ahora debes colocar los siguientes numeros
+en los pequeños circulos. Tu eligues en cual colocas cada uno
+	15
+	14
+	13
+	12
+	10
+	8
+
+5- Estos numeros se transforman en otros mas pequeño que se colocan en el 
+rectangulo grande
+	15 -> +2
+	14 -> +2
+	13 -> +1
+	12 -> +1
+	10 ->  0
+	8  -> -1
+
+6- 
