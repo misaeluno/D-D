@@ -1,6 +1,7 @@
 Intrucciones sencilla para crear un personaje.
 
-1-Busca que raza quieres ser. Hay 7 razas bacicas para comenzar
+1-Busca que raza quieres ser. Hay 8 razas bacicas para comenzar
+
 	1. El Humano
 	2. El Elfo
 	3. El Semi-Elfo
@@ -8,8 +9,10 @@ Intrucciones sencilla para crear un personaje.
 	5. El Tefling
 	6. El Mediano
 	7. El Gnomo
+	8. El Drakonito
 
 2- Que clase quieres ser. Igual que las Razas hay algunas bacicas para principiante
+
 	1.  El Paladin
 	2.  El Clerigo
 	3.  El Picaro
@@ -21,9 +24,10 @@ Intrucciones sencilla para crear un personaje.
 	9.  El Seductor = Bardo
         10. El Artificiero
         11. El Luchador
-	12. El Drakonito
+	12. El Monje
 
 3- Ahora a tu izqueirda estan tus destrazas
+
 	1. Fuerza
 	2. Destreza
 	3. Constitucion
@@ -33,6 +37,7 @@ Intrucciones sencilla para crear un personaje.
 
 4-Ahora debes colocar los siguientes numeros
 en los pequeños circulos. Tu eligues en cual colocas cada uno
+
 	15
 	14
 	13
@@ -42,6 +47,7 @@ en los pequeños circulos. Tu eligues en cual colocas cada uno
 
 5- Estos numeros se transforman en otros mas pequeño que se colocan en el 
 rectangulo grande
+
 	15 -> +2
 	14 -> +2
 	13 -> +1
@@ -49,4 +55,53 @@ rectangulo grande
 	10 ->  0
 	8  -> -1
 
-6- 
+6- Bien, ahora segun tu raza debes sumar a los primeros numeros que pusiste
+
+	Humano		: +1 en todas las destrezas
+	Elfo		: 
+	Semi-Elfo	:
+	Semi-Orco	:
+	Tefling		:
+	Mediano		:
+	Gnomo		:
+	Drakonito	:
+
+7- ahora a la derecha de las destrezas hay un pequeño cuadrado que se llama
+"Beneficio por competencia" aca va un +2
+
+8- justo de bajo esta un cuadrado que se llama "tiradas de salvacion"
+debes rellenar los circulos segun tu clase
+
+	Paladin			: Sabiduria y Carisma
+	Clerigo			: Sabiduria y Carisma 
+	Picaro			: Destreza e Inteligencia
+	Mago			: Inteligencia y Sabiduria 
+	Hechicero		: Constitucion y Carisma
+	Brujo			: Sabiduria y Carisma
+	Barbaro			: Fuerza y Constitucion
+	Druida			: Inteligencia y Sabiduria
+	Seductor = Bardo	: Destreza y Carisma
+        Artificiero		: 
+        Luchador		:
+	Monge			: Fuerza y Destreza
+
+9- En el mismo cuadro, en el espacio en blanco pones el numero menor que te dio 
+en las destrezas (-1,0,+1,+2) pero si esta en el lugar donde rellenaste el 
+circulo este se le suma +2(1,+2,+3,+4)
+
+10- De bajo hay un rectangulo mas grande, que se llama "Habilidades" y es igual que el 
+cuadro de recien, donde debes rellenar los circulos segun tu clase y colocar el valor del numero
+segun tu destreza a no ser que este marcado, ya que indica que a ese valor le sumas +2.
+	Paladin			:
+	Clerigo			:
+	Picaro			:
+	Mago			:
+	Hechicero		:
+	Brujo			:
+	Barbaro			:
+	Druida			:
+	Seductor = Bardo	:
+        Artificiero		:
+        Luchador		:
+	Monje			:
+
